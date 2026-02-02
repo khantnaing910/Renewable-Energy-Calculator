@@ -2,7 +2,6 @@
 
 EcoPulse is a high-fidelity energy analysis dashboard built with React, Vite, and Tailwind CSS. It allows users to calculate potential energy output, financial ROI, and environmental impact for Solar, Wind, and Hydro power systems.
 
-![EcoPulse Preview](https://raw.githubusercontent.com/khantnaing910/EcoPulseEnergy-Calculator/main/public/preview.png) *(Note: Add a preview image to your public folder if available)*
 
 ## 🚀 Live Demo
 [View Live Site](https://khantnaing910.github.io/EcoPulseEnergy-Calculator/)
@@ -22,9 +21,6 @@ EcoPulse is a high-fidelity energy analysis dashboard built with React, Vite, an
 - **Animations**: Framer Motion
 - **Icons**: Lucide React
 - **Charts**: Recharts
-
-
-Live URL: [https://khantnaing910.github.io/EcoPulseEnergy-Calculator/](https://khantnaing910.github.io/EcoPulseEnergy-Calculator/)
 
 
 ## 📄 License
